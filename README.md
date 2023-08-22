@@ -12,6 +12,7 @@ A list to collect games that have a new challenge for you everyday.
     - [World](#world)
     - [Sports](#sports)
     - [Games](#games)
+    - [Coding](#coding)
 
 
 ## Daily Categories
@@ -51,3 +52,7 @@ A list to collect games that have a new challenge for you everyday.
 - [GuessThe.Game](https://guessthe.game/) - Guess the game by screenshot.
 - [Gamedle](https://www.gamedle.wtf/) - Guess the game based on cover, artwork or keywords.
 - [LoLdle](https://loldle.net/) - Guess the League of Legends character, quote and ability.
+
+### Coding
+
+- [Daily Coding Problem](https://www.dailycodingproblem.com/) - (Email) - Sends a daily coding problem to solve.
