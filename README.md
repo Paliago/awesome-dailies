@@ -45,6 +45,7 @@ A list to collect games that have a new challenge for you everyday.
 ### Sports
 
 - [Who Are Ya?](https://playfootball.games/who-are-ya) - Guess the football player. Choose between different leagues.
+- [Immaculate Footy](https://www.immaculatefooty.com/) - Guess a grid of footballers based on information overlap.
 
 ### Games
 
