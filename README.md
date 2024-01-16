@@ -13,6 +13,7 @@ A list to collect games that have a new challenge for you everyday.
     - [Sports](#sports)
     - [Games](#games)
     - [Coding](#coding)
+    - [Others](#others)
 
 
 ## Daily Categories
@@ -33,6 +34,7 @@ A list to collect games that have a new challenge for you everyday.
 - [Box Office Game](https://boxofficega.me/) - Guess the movies by box office numbers.
 - [Daily Tomato](https://www.rottentomatoes.com/movie-trivia/) - Guess the movie based on rotten tomato clues.
 - [Moviedle](https://likewisetv.com/arcade/moviedle) - Guess the movie by a short burst of frames.
+- [Movie to Movie](https://movietomovie.com/) - Jump from one movie to another through the cast and the movies they've acted in.
 
 ### World
 
@@ -41,6 +43,8 @@ A list to collect games that have a new challenge for you everyday.
 - [Tradle](https://oec.world/en/tradle/) - Guess the country by products they export.
 - [Worldle](https://worldle.teuteuf.fr/) - Guess the country by shape.
 - [Chronophoto](https://www.chronophoto.app/daily.html) - Guess the year based on pictures. 
+- [TimeGuessr](https://timeguessr.com/) - Guess the year and place in the world.
+- [travle](https://travle.earth/) - Connect two destinations through the countries in between them.
 
 ### Sports
 
@@ -53,7 +57,14 @@ A list to collect games that have a new challenge for you everyday.
 - [GuessThe.Game](https://guessthe.game/) - Guess the game by screenshot.
 - [Gamedle](https://www.gamedle.wtf/) - Guess the game based on cover, artwork or keywords.
 - [LoLdle](https://loldle.net/) - Guess the League of Legends character, quote and ability.
+- [PokeDoku](https://pokedoku.com/) - Guess the grid of pokémon.
 
 ### Coding
 
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) - (Email) - Sends a daily coding problem to solve.
+
+### Others
+
+- [Guess Hoot](https://www.guesshoot.com/) - Guess todays owl by shape.
+- [Daydreams](https://daydreams.ai/) - Guess a phrase based on three ai generated images.
+- [HomeGuessr](https://homeguessr.khouryfinance.com/) - Guess the price of a home in USD.
