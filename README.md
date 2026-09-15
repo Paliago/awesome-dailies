@@ -58,6 +58,7 @@ A list to collect games that have a new challenge for you everyday.
 - [Gamedle](https://www.gamedle.wtf/) - Guess the game based on cover, artwork or keywords.
 - [LoLdle](https://loldle.net/) - Guess the League of Legends character, quote and ability.
 - [PokeDoku](https://pokedoku.com/) - Guess the grid of pokémon.
+- [Play Meowdoku](https://playmeowdoku.com) - Free browser cat logic puzzle — place one cat per region with no shared row/column and no diagonal touch (Sudoku-like).
 
 ### Coding
 
