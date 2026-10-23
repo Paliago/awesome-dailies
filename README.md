@@ -68,3 +68,4 @@ A list to collect games that have a new challenge for you everyday.
 - [Guess Hoot](https://www.guesshoot.com/) - Guess todays owl by shape.
 - [Daydreams](https://daydreams.ai/) - Guess a phrase based on three ai generated images.
 - [HomeGuessr](https://homeguessr.khouryfinance.com/) - Guess the price of a home in USD.
+- [Plain Game](https://plaingame.fun/) - Name things close to a target number and estimate everyday facts in seven daily rounds.
