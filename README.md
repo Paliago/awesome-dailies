@@ -44,6 +44,7 @@ A list to collect games that have a new challenge for you everyday.
 - [Worldle](https://worldle.teuteuf.fr/) - Guess the country by shape.
 - [Chronophoto](https://www.chronophoto.app/daily.html) - Guess the year based on pictures. 
 - [TimeGuessr](https://timeguessr.com/) - Guess the year and place in the world.
+- [guessNow](https://guessnow.fun/) - Guess the year each archival photo was taken; the photographer, licence and source are shown on every reveal.
 - [travle](https://travle.earth/) - Connect two destinations through the countries in between them.
 
 ### Sports
