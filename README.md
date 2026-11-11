@@ -68,3 +68,4 @@ A list to collect games that have a new challenge for you everyday.
 - [Guess Hoot](https://www.guesshoot.com/) - Guess todays owl by shape.
 - [Daydreams](https://daydreams.ai/) - Guess a phrase based on three ai generated images.
 - [HomeGuessr](https://homeguessr.khouryfinance.com/) - Guess the price of a home in USD.
+- [JigsawPop](https://jigsawpop.com/) - A free daily jigsaw puzzle, plus a photo puzzle maker, with no account required.
